@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-06-16T17:32:22.105Z",
+  "articles": [
+    {
+      "title": "Enterprise AI Agents Move From Pilot Projects to Operating Model Redesign",
+      "source": "Sample Source",
+      "url": "https://example.com/enterprise-ai-agents",
+      "publishedAt": "2026-06-16T17:32:22.105Z",
+      "summary": "A sample story showing how the app presents AI-generated summaries for trusted AI and business strategy content.",
+      "category": "Top Stories",
+      "isTopStory": true,
+      "score": 96
+    },
+    {
+      "title": "Retailers Test AI Shopping Assistants for Personalized Commerce",
+      "source": "Sample Source",
+      "url": "https://example.com/ai-shopping-assistants",
+      "publishedAt": "2026-06-16T14:32:22.105Z",
+      "summary": "A sample marketing-category article about AI-driven retail, customer journeys, and automated buying experiences.",
+      "category": "Marketing",
+      "isTopStory": false,
+      "score": 82
+    },
+    {
+      "title": "New AI Governance Guidance Raises Compliance Questions for Firms",
+      "source": "Sample Source",
+      "url": "https://example.com/ai-governance",
+      "publishedAt": "2026-06-16T12:32:22.105Z",
+      "summary": "A sample AI policy article focused on regulation, governance, risk, and responsible AI practices.",
+      "category": "AI Policy",
+      "isTopStory": false,
+      "score": 79
+    }
+  ]
+}
