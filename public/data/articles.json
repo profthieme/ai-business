@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:54:59.092Z",
+  "generatedAt": "2026-06-16T21:42:49.738Z",
   "articles": [
     {
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 108
+      "score": 107
     },
     {
       "title": "Insurers pivot AI strategy toward core risk underwriting",
@@ -21,28 +21,6 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 103
-    },
-    {
-      "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/prompt-hungary-the-impact-of-ai-on-the-competitiveness-of-the-economy",
-      "publishedAt": "2026-06-16T05:00:00.000Z",
-      "summary": "AI could become a powerful growth engine for the country by helping overcome the economy’s challenges and limitations, and generating improved productivity and lasting competitive advantage.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 102
-    },
-    {
-      "title": "The agentic advertising economy: From attention to action",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action",
-      "publishedAt": "2026-06-16T05:00:00.000Z",
-      "summary": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and purchased.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
       "score": 102
     },
     {
@@ -54,7 +32,29 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 97
+      "score": 96
+    },
+    {
+      "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/prompt-hungary-the-impact-of-ai-on-the-competitiveness-of-the-economy",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "AI could become a powerful growth engine for the country by helping overcome the economy’s challenges and limitations, and generating improved productivity and lasting competitive advantage.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 96
+    },
+    {
+      "title": "The agentic advertising economy: From attention to action",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and purchased.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 96
     },
     {
       "title": "AI Red Teaming Explained: What It Is and Why You Need It",
@@ -65,7 +65,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 95
+      "score": 94
     },
     {
       "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
@@ -76,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 95
+      "score": 94
     },
     {
       "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
@@ -87,29 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 95
-    },
-    {
-      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
-      "source": "Import AI",
-      "url": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
-      "publishedAt": "2026-06-15T11:30:53.000Z",
-      "summary": "Where are your agents right now?",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 80
-    },
-    {
-      "title": "The health system CEO imperative: Turning AI’s promise into performance",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-health-system-ceo-imperative-turning-ais-promise-into-performance",
-      "publishedAt": "2026-06-15T05:00:00.000Z",
-      "summary": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care and operations run.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 78
+      "score": 94
     },
     {
       "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
@@ -118,9 +96,9 @@
       "publishedAt": "2026-06-15T11:00:00.000Z",
       "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically fo…",
       "category": "Strategy",
-      "isTopStory": false,
+      "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 74
+      "score": 73
     },
     {
       "title": "Accenture: Consumers show growing trust in AI shopping agents",
@@ -129,9 +107,20 @@
       "publishedAt": "2026-06-15T10:00:00.000Z",
       "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of resp…",
       "category": "Marketing",
-      "isTopStory": false,
+      "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 73
+      "score": 72
+    },
+    {
+      "title": "The health system CEO imperative: Turning AI’s promise into performance",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-health-system-ceo-imperative-turning-ais-promise-into-performance",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "summary": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care and operations run.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 72
     },
     {
       "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
@@ -142,7 +131,7 @@
       "category": "AI Policy",
       "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 71
+      "score": 70
     }
   ]
 }
