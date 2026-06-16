@@ -86,7 +86,7 @@ function App() {
   async function loadFeed(cacheBust = false) {
     setLoading(true);
     try {
-      const url = `/data/articles.json${cacheBust ? `?t=${Date.now()}` : ''}`;
+      const url = ${import.meta.env.BASE_URL}data/articles.json${cacheBust ? ?t=${Date.now()} : ''};
       const res = await fetch(url);
       const data = await res.json();
       setArticles(data.articles || []);
