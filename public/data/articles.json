@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T21:42:49.738Z",
+  "generatedAt": "2026-06-16T23:25:31.093Z",
   "articles": [
     {
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
@@ -10,29 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 107
-    },
-    {
-      "title": "Insurers pivot AI strategy toward core risk underwriting",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
-      "publishedAt": "2026-06-16T15:55:02.000Z",
-      "summary": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discip…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 102
-    },
-    {
-      "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
-      "publishedAt": "2026-06-16T10:00:00.000Z",
-      "summary": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June,…",
-      "category": "AI Policy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 96
+      "score": 106
     },
     {
       "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
@@ -43,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 96
+      "score": 95
     },
     {
       "title": "The agentic advertising economy: From attention to action",
@@ -54,29 +32,18 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 96
+      "score": 95
     },
     {
-      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
-      "publishedAt": "2026-06-16T08:06:43.000Z",
-      "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why i…",
-      "category": "AI Policy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 94
-    },
-    {
-      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
-      "publishedAt": "2026-06-16T07:49:07.000Z",
-      "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually…",
+      "title": "The symbiotic enterprise",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "How cognitive and physical AI are reinventing enterprise execution",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 94
+      "sourceCredibility": 9,
+      "score": 95
     },
     {
       "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
@@ -87,29 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 94
-    },
-    {
-      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
-      "publishedAt": "2026-06-15T11:00:00.000Z",
-      "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically fo…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 73
-    },
-    {
-      "title": "Accenture: Consumers show growing trust in AI shopping agents",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
-      "publishedAt": "2026-06-15T10:00:00.000Z",
-      "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of resp…",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 72
+      "score": 92
     },
     {
       "title": "The health system CEO imperative: Turning AI’s promise into performance",
@@ -120,18 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 72
-    },
-    {
-      "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
-      "publishedAt": "2026-06-15T08:00:00.000Z",
-      "summary": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-bor…",
-      "category": "AI Policy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 70
+      "score": 71
     }
   ]
 }
