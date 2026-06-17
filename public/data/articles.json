@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-17T09:52:16.448Z",
+  "generatedAt": "2026-06-17T22:02:23.944Z",
   "articles": [
+    {
+      "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/radical-ai",
+      "publishedAt": "2026-06-17T17:58:06.000Z",
+      "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 109
+    },
+    {
+      "title": "Google Cloud generative AI automates council planning operations",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "publishedAt": "2026-06-17T10:59:42.000Z",
+      "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central go…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 97
+    },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
       "source": "Latent Space",
@@ -10,7 +32,40 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 109
+      "score": 97
+    },
+    {
+      "title": "What could rising fuel costs mean for airlines?",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "summary": "Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 96
+    },
+    {
+      "title": "How conflict in the Gulf is remapping global travel",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "summary": "Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 96
+    },
+    {
+      "title": "The turning point for real-world robotics",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-turning-point-for-real-world-robotics",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "summary": "Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Laboratory, shares a vision for robots that learn faster, respond in real time, and fit naturally into our lives.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 96
     },
     {
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
@@ -21,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 95
+      "score": 83
     },
     {
       "title": "Insurers pivot AI strategy toward core risk underwriting",
@@ -32,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 90
+      "score": 78
     },
     {
       "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
@@ -43,7 +98,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 84
+      "score": 72
     },
     {
       "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
@@ -54,18 +109,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
-    },
-    {
-      "title": "The agentic advertising economy: From attention to action",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and purchased.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 84
+      "score": 72
     },
     {
       "title": "The symbiotic enterprise",
@@ -76,7 +120,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 72
+    },
+    {
+      "title": "The agentic advertising economy: From attention to action",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and purchased.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 72
     },
     {
       "title": "AI Red Teaming Explained: What It Is and Why You Need It",
@@ -85,9 +140,9 @@
       "publishedAt": "2026-06-16T08:06:43.000Z",
       "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why i…",
       "category": "AI Policy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 82
+      "score": 70
     },
     {
       "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
@@ -96,9 +151,9 @@
       "publishedAt": "2026-06-16T07:49:07.000Z",
       "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually…",
       "category": "Strategy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 82
+      "score": 70
     },
     {
       "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
@@ -107,31 +162,9 @@
       "publishedAt": "2026-06-16T02:29:29.000Z",
       "summary": "a quiet day lets us report on Satya's hit essay",
       "category": "Strategy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 8,
-      "score": 82
-    },
-    {
-      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
-      "publishedAt": "2026-06-15T11:00:00.000Z",
-      "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically fo…",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 61
-    },
-    {
-      "title": "Accenture: Consumers show growing trust in AI shopping agents",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
-      "publishedAt": "2026-06-15T10:00:00.000Z",
-      "summary": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of resp…",
-      "category": "Marketing",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 60
+      "score": 69
     }
   ]
 }
