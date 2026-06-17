@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-17T04:20:55.957Z",
+  "generatedAt": "2026-06-17T09:52:16.448Z",
   "articles": [
+    {
+      "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "publishedAt": "2026-06-17T05:37:40.000Z",
+      "summary": "We have a new top open model in the world!",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 109
+    },
     {
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
       "source": "MIT Sloan Management Review",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 101
+      "score": 95
     },
     {
       "title": "Insurers pivot AI strategy toward core risk underwriting",
@@ -21,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 96
+      "score": 90
     },
     {
       "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
@@ -32,7 +43,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 90
+      "score": 84
     },
     {
       "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
@@ -43,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 90
+      "score": 84
     },
     {
       "title": "The agentic advertising economy: From attention to action",
@@ -54,7 +65,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 90
+      "score": 84
     },
     {
       "title": "The symbiotic enterprise",
@@ -65,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 90
+      "score": 84
     },
     {
       "title": "AI Red Teaming Explained: What It Is and Why You Need It",
@@ -76,7 +87,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 88
+      "score": 82
     },
     {
       "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
@@ -87,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 87
+      "score": 82
     },
     {
       "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
@@ -98,7 +109,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 87
+      "score": 82
     },
     {
       "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
@@ -107,9 +118,9 @@
       "publishedAt": "2026-06-15T11:00:00.000Z",
       "summary": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically fo…",
       "category": "Strategy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 67
+      "score": 61
     },
     {
       "title": "Accenture: Consumers show growing trust in AI shopping agents",
@@ -120,18 +131,7 @@
       "category": "Marketing",
       "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 66
-    },
-    {
-      "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
-      "publishedAt": "2026-06-15T08:00:00.000Z",
-      "summary": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-bor…",
-      "category": "AI Policy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 64
+      "score": 60
     }
   ]
 }
