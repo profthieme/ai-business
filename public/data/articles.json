@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-18T18:06:37.890Z",
+  "generatedAt": "2026-06-18T23:47:36.799Z",
   "articles": [
     {
-      "title": "Computer vision deployments drive retail productivity gains",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
-      "publishedAt": "2026-06-18T15:57:46.000Z",
-      "summary": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry…",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 106
-    },
-    {
-      "title": "HSBC expands AI banking partnership with Google Cloud",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
-      "publishedAt": "2026-06-18T10:00:00.000Z",
-      "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk …",
+      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+      "publishedAt": "2026-06-18T04:23:05.000Z",
+      "summary": "The only bootstrapped frontier lab announces its second product and second",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 100
+      "sourceCredibility": 8,
+      "score": 94
     },
     {
       "title": "What corporate leaders can learn from start-up founders",
@@ -32,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 100
+      "score": 94
     },
     {
       "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
@@ -43,18 +32,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 100
-    },
-    {
-      "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 100
+      "score": 94
     },
     {
       "title": "The rise of the agentic shopper: ASOS’s AI investment",
@@ -65,7 +43,18 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 100
+      "score": 94
+    },
+    {
+      "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 94
     },
     {
       "title": "Rewiring Talent to Value in the age of AI",
@@ -76,29 +65,29 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 100
+      "score": 94
     },
     {
-      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
-      "publishedAt": "2026-06-18T09:00:00.000Z",
-      "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. Th…",
+      "title": "The symbiotic enterprise",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "Advances in cognitive and physical AI are reinventing enterprise execution—ushering in a new organizational model built around human–AI collaboration.",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 99
+      "sourceCredibility": 9,
+      "score": 94
     },
     {
-      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-      "publishedAt": "2026-06-18T04:23:05.000Z",
-      "summary": "The only bootstrapped frontier lab announces its second product and second",
+      "title": "AI is turning every company into a software company",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time.",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 99
+      "sourceCredibility": 9,
+      "score": 94
     },
     {
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
@@ -109,18 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 89
-    },
-    {
-      "title": "Google Cloud generative AI automates council planning operations",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
-      "publishedAt": "2026-06-17T10:59:42.000Z",
-      "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central go…",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 77
+      "score": 83
     },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
@@ -129,9 +107,9 @@
       "publishedAt": "2026-06-17T05:37:40.000Z",
       "summary": "We have a new top open model in the world!",
       "category": "Strategy",
-      "isTopStory": false,
+      "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 77
+      "score": 71
     },
     {
       "title": "What could rising fuel costs mean for airlines?",
@@ -142,7 +120,7 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 9,
-      "score": 76
+      "score": 70
     },
     {
       "title": "How conflict in the Gulf is remapping global travel",
@@ -153,7 +131,7 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 9,
-      "score": 76
+      "score": 70
     },
     {
       "title": "The turning point for real-world robotics",
@@ -164,7 +142,7 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 9,
-      "score": 76
+      "score": 70
     }
   ]
 }
