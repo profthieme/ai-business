@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-18T00:17:49.383Z",
+  "generatedAt": "2026-06-18T05:57:31.613Z",
   "articles": [
+    {
+      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+      "publishedAt": "2026-06-18T04:23:05.000Z",
+      "summary": "The only bootstrapped frontier lab announces its second product and second",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 111
+    },
     {
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
       "source": "Latent Space",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 107
+      "score": 101
     },
     {
       "title": "Google Cloud generative AI automates council planning operations",
@@ -21,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 95
+      "score": 89
     },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
@@ -32,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 94
+      "score": 89
     },
     {
       "title": "What could rising fuel costs mean for airlines?",
@@ -43,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 88
     },
     {
       "title": "How conflict in the Gulf is remapping global travel",
@@ -54,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 88
     },
     {
       "title": "The turning point for real-world robotics",
@@ -65,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 88
     },
     {
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
@@ -76,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 81
+      "score": 75
     },
     {
       "title": "Insurers pivot AI strategy toward core risk underwriting",
@@ -87,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 76
+      "score": 70
     },
     {
       "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
@@ -98,7 +109,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 70
+      "score": 64
     },
     {
       "title": "AI Red Teaming Explained: What It Is and Why You Need It",
@@ -107,9 +118,9 @@
       "publishedAt": "2026-06-16T08:06:43.000Z",
       "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why i…",
       "category": "AI Policy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 68
+      "score": 62
     },
     {
       "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
@@ -118,20 +129,9 @@
       "publishedAt": "2026-06-16T07:49:07.000Z",
       "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually…",
       "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 68
-    },
-    {
-      "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
-      "publishedAt": "2026-06-16T02:29:29.000Z",
-      "summary": "a quiet day lets us report on Satya's hit essay",
-      "category": "Strategy",
       "isTopStory": false,
-      "sourceCredibility": 8,
-      "score": 67
+      "sourceCredibility": 7,
+      "score": 62
     }
   ]
 }
