@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:02:23.944Z",
+  "generatedAt": "2026-06-18T00:17:49.383Z",
   "articles": [
     {
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 109
+      "score": 107
     },
     {
       "title": "Google Cloud generative AI automates council planning operations",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 97
+      "score": 95
     },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 97
+      "score": 94
     },
     {
       "title": "What could rising fuel costs mean for airlines?",
@@ -43,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 96
+      "score": 94
     },
     {
       "title": "How conflict in the Gulf is remapping global travel",
@@ -54,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 96
+      "score": 94
     },
     {
       "title": "The turning point for real-world robotics",
@@ -65,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 96
+      "score": 94
     },
     {
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
@@ -76,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 83
+      "score": 81
     },
     {
       "title": "Insurers pivot AI strategy toward core risk underwriting",
@@ -87,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 78
+      "score": 76
     },
     {
       "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
@@ -98,40 +98,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 72
-    },
-    {
-      "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/prompt-hungary-the-impact-of-ai-on-the-competitiveness-of-the-economy",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "AI could become a powerful growth engine for the country by helping overcome the economy’s challenges and limitations, and generating improved productivity and lasting competitive advantage.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 72
-    },
-    {
-      "title": "The symbiotic enterprise",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "How cognitive and physical AI are reinventing enterprise execution",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 72
-    },
-    {
-      "title": "The agentic advertising economy: From attention to action",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and purchased.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 72
+      "score": 70
     },
     {
       "title": "AI Red Teaming Explained: What It Is and Why You Need It",
@@ -140,9 +107,9 @@
       "publishedAt": "2026-06-16T08:06:43.000Z",
       "summary": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why i…",
       "category": "AI Policy",
-      "isTopStory": false,
+      "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 70
+      "score": 68
     },
     {
       "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
@@ -151,9 +118,9 @@
       "publishedAt": "2026-06-16T07:49:07.000Z",
       "summary": "For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually…",
       "category": "Strategy",
-      "isTopStory": false,
+      "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 70
+      "score": 68
     },
     {
       "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
@@ -164,7 +131,7 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 8,
-      "score": 69
+      "score": 67
     }
   ]
 }
