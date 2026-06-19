@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-19T09:46:19.190Z",
+  "generatedAt": "2026-06-19T18:57:17.344Z",
   "articles": [
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "publishedAt": "2026-06-19T14:02:20.000Z",
+      "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 103
+    },
     {
       "title": "[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "source": "Latent Space",
@@ -10,7 +21,29 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 109
+      "score": 100
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "publishedAt": "2026-06-19T09:57:55.000Z",
+      "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-…",
+      "category": "AI Policy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 99
+    },
+    {
+      "title": "Putting AI to work: The operational excellence imperative",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative",
+      "publishedAt": "2026-06-19T00:00:00.000Z",
+      "summary": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 99
     },
     {
       "title": "Computer vision deployments drive retail productivity gains",
@@ -21,7 +54,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 90
+      "score": 81
     },
     {
       "title": "HSBC expands AI banking partnership with Google Cloud",
@@ -32,18 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 84
-    },
-    {
-      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-      "publishedAt": "2026-06-18T04:23:05.000Z",
-      "summary": "The only bootstrapped frontier lab announces its second product and second",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 84
+      "score": 75
     },
     {
       "title": "What corporate leaders can learn from start-up founders",
@@ -54,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 75
     },
     {
       "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
@@ -65,18 +87,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
-    },
-    {
-      "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 84
+      "score": 75
     },
     {
       "title": "The rise of the agentic shopper: ASOS’s AI investment",
@@ -87,7 +98,18 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 75
+    },
+    {
+      "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 75
     },
     {
       "title": "Rewiring Talent to Value in the age of AI",
@@ -98,7 +120,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 75
     },
     {
       "title": "The symbiotic enterprise",
@@ -109,7 +131,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 75
     },
     {
       "title": "AI is turning every company into a software company",
@@ -120,7 +142,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 75
     },
     {
       "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
@@ -131,29 +153,18 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 83
+      "score": 74
     },
     {
-      "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
       "source": "Latent Space",
-      "url": "https://www.latent.space/p/radical-ai",
-      "publishedAt": "2026-06-17T17:58:06.000Z",
-      "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+      "publishedAt": "2026-06-18T04:23:05.000Z",
+      "summary": "The only bootstrapped frontier lab announces its second product and second",
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 8,
-      "score": 73
-    },
-    {
-      "title": "Google Cloud generative AI automates council planning operations",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
-      "publishedAt": "2026-06-17T10:59:42.000Z",
-      "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central go…",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 61
+      "score": 74
     }
   ]
 }
