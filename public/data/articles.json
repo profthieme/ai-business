@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-18T23:47:36.799Z",
+  "generatedAt": "2026-06-19T04:42:08.790Z",
   "articles": [
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "publishedAt": "2026-06-18T15:57:46.000Z",
+      "summary": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 95
+    },
+    {
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk …",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 89
+    },
     {
       "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
       "source": "Latent Space",
@@ -10,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 94
+      "score": 89
     },
     {
       "title": "What corporate leaders can learn from start-up founders",
@@ -21,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 89
     },
     {
       "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
@@ -32,18 +54,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
-    },
-    {
-      "title": "The rise of the agentic shopper: ASOS’s AI investment",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/retail/our-insights/the-rise-of-the-agentic-shopper-asoss-ai-investment",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 94
+      "score": 89
     },
     {
       "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
@@ -54,7 +65,18 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 89
+    },
+    {
+      "title": "The rise of the agentic shopper: ASOS’s AI investment",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/the-rise-of-the-agentic-shopper-asoss-ai-investment",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 89
     },
     {
       "title": "Rewiring Talent to Value in the age of AI",
@@ -65,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 89
     },
     {
       "title": "The symbiotic enterprise",
@@ -76,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 89
     },
     {
       "title": "AI is turning every company into a software company",
@@ -87,7 +109,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 89
+    },
+    {
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+      "publishedAt": "2026-06-18T09:00:00.000Z",
+      "summary": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. Th…",
+      "category": "Strategy",
+      "isTopStory": false,
+      "sourceCredibility": 7,
+      "score": 88
     },
     {
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
@@ -96,9 +129,20 @@
       "publishedAt": "2026-06-17T17:58:06.000Z",
       "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
       "category": "Strategy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 8,
-      "score": 83
+      "score": 78
+    },
+    {
+      "title": "Google Cloud generative AI automates council planning operations",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "publishedAt": "2026-06-17T10:59:42.000Z",
+      "summary": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central go…",
+      "category": "Strategy",
+      "isTopStory": false,
+      "sourceCredibility": 7,
+      "score": 66
     },
     {
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
@@ -107,42 +151,9 @@
       "publishedAt": "2026-06-17T05:37:40.000Z",
       "summary": "We have a new top open model in the world!",
       "category": "Strategy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 8,
-      "score": 71
-    },
-    {
-      "title": "What could rising fuel costs mean for airlines?",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "summary": "Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 9,
-      "score": 70
-    },
-    {
-      "title": "How conflict in the Gulf is remapping global travel",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "summary": "Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 9,
-      "score": 70
-    },
-    {
-      "title": "The turning point for real-world robotics",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-turning-point-for-real-world-robotics",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "summary": "Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Laboratory, shares a vision for robots that learn faster, respond in real time, and fit naturally into our lives.",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 9,
-      "score": 70
+      "score": 66
     }
   ]
 }
