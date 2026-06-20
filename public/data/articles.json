@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T20:41:12.451Z",
+  "generatedAt": "2026-06-20T05:17:16.591Z",
   "articles": [
     {
       "title": "[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 98
+      "score": 90
     },
     {
       "title": "Putting AI to work: The operational excellence imperative",
@@ -21,95 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 97
-    },
-    {
-      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-      "publishedAt": "2026-06-18T04:23:05.000Z",
-      "summary": "The only bootstrapped frontier lab announces its second product and second",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 73
-    },
-    {
-      "title": "What corporate leaders can learn from start-up founders",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to transform their companies with AI.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
-    },
-    {
-      "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty, fluid shopping behavior, and social commerce.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
-    },
-    {
-      "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
-    },
-    {
-      "title": "Rewiring Talent to Value in the age of AI",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get started.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
-    },
-    {
-      "title": "The rise of the agentic shopper: ASOS’s AI investment",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/retail/our-insights/the-rise-of-the-agentic-shopper-asoss-ai-investment",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
-    },
-    {
-      "title": "The symbiotic enterprise",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "Advances in cognitive and physical AI are reinventing enterprise execution—ushering in a new organizational model built around human–AI collaboration.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
-    },
-    {
-      "title": "AI is turning every company into a software company",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 73
+      "score": 89
     }
   ]
 }
