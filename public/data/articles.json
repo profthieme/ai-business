@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T16:21:12.293Z",
+  "generatedAt": "2026-06-20T18:14:26.301Z",
   "articles": [
     {
       "title": "[AINews] not much happened today",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 105
+      "score": 103
     },
     {
       "title": "SAP and Google Cloud deploy agentic commerce architecture",
@@ -21,7 +21,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 82
+      "score": 80
     },
     {
       "title": "[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 79
+      "score": 77
     },
     {
       "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
@@ -43,7 +43,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 78
+      "score": 76
     },
     {
       "title": "Putting AI to work: The operational excellence imperative",
@@ -54,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 78
+      "score": 76
     }
   ]
 }
