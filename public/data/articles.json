@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-20T05:17:16.591Z",
+  "generatedAt": "2026-06-20T09:19:58.692Z",
   "articles": [
+    {
+      "title": "[AINews] not much happened today",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+      "publishedAt": "2026-06-20T08:06:05.000Z",
+      "summary": "a quiet day lets us promo AIE one last time",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 112
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "publishedAt": "2026-06-19T14:02:20.000Z",
+      "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 89
+    },
     {
       "title": "[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "source": "Latent Space",
@@ -10,7 +32,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 90
+      "score": 86
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "publishedAt": "2026-06-19T09:57:55.000Z",
+      "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-…",
+      "category": "AI Policy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 85
     },
     {
       "title": "Putting AI to work: The operational excellence imperative",
@@ -21,7 +54,29 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 89
+      "score": 85
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "publishedAt": "2026-06-18T15:57:46.000Z",
+      "summary": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 67
+    },
+    {
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "summary": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk …",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 61
     }
   ]
 }
