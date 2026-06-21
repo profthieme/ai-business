@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T22:10:59.031Z",
+  "generatedAt": "2026-06-21T00:09:59.711Z",
   "articles": [
     {
       "title": "[AINews] not much happened today",
@@ -10,7 +10,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 99
+      "score": 97
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "publishedAt": "2026-06-19T14:02:20.000Z",
+      "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 74
     },
     {
       "title": "[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
@@ -21,18 +32,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 73
+      "score": 71
     },
     {
-      "title": "Putting AI to work: The operational excellence imperative",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative",
-      "publishedAt": "2026-06-19T00:00:00.000Z",
-      "summary": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.",
-      "category": "Strategy",
+      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "publishedAt": "2026-06-19T09:57:55.000Z",
+      "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-…",
+      "category": "AI Policy",
       "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 72
+      "sourceCredibility": 7,
+      "score": 70
     }
   ]
 }
