@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T15:54:42.361Z",
+  "generatedAt": "2026-06-21T21:17:07.647Z",
   "articles": [
     {
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 112
+      "score": 107
     },
     {
       "title": "[AINews] not much happened today",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 81
+      "score": 76
     }
   ]
 }
