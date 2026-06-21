@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-21T10:31:48.987Z",
+  "generatedAt": "2026-06-21T15:54:42.361Z",
   "articles": [
+    {
+      "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+      "publishedAt": "2026-06-21T15:01:23.000Z",
+      "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 112
+    },
     {
       "title": "[AINews] not much happened today",
       "source": "Latent Space",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 87
+      "score": 81
     }
   ]
 }
