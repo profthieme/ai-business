@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-06-21T23:16:58.842Z",
+  "generatedAt": "2026-06-22T19:32:17.699Z",
   "articles": [
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "publishedAt": "2026-06-22T16:11:21.000Z",
+      "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designe…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 105
+    },
+    {
+      "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "summary": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, adverti…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 98
+    },
+    {
+      "title": "From anxiety to advantage: A marketing organization that thrives with AI",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 98
+    },
+    {
+      "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 98
+    },
+    {
+      "title": "Capturing growth in a fragmented world",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-capturing-growth-in-a-fragmented-world",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 98
+    },
     {
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
       "source": "Latent Space",
@@ -10,18 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 105
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
-      "publishedAt": "2026-06-20T08:06:05.000Z",
-      "summary": "a quiet day lets us promo AIE one last time",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 74
+      "score": 84
     }
   ]
 }
