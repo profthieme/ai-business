@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-22T19:32:17.699Z",
+  "generatedAt": "2026-06-23T00:09:19.102Z",
   "articles": [
+    {
+      "title": "Red-Teaming after Mythos — Zico Kolter &amp; Matt Fredrikson, Gray Swan",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/gray-swan",
+      "publishedAt": "2026-06-22T21:06:55.000Z",
+      "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just “cybersecurity with AI”",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 110
+    },
     {
       "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
       "source": "Artificial Intelligence News",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 105
+      "score": 100
     },
     {
       "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
@@ -21,7 +32,18 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 98
+      "score": 94
+    },
+    {
+      "title": "Capturing Central Europe’s AI opportunity",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/capturing-central-europes-ai-opportunity",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "AI is advancing too quickly to remain a side initiative for businesses. Central European companies can get ahead by redesigning business domains—and the organization—around AI.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 94
     },
     {
       "title": "From anxiety to advantage: A marketing organization that thrives with AI",
@@ -32,7 +54,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 98
+      "score": 94
     },
     {
       "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
@@ -43,7 +65,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 98
+      "score": 94
     },
     {
       "title": "Capturing growth in a fragmented world",
@@ -54,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 98
+      "score": 94
     },
     {
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
@@ -65,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 84
+      "score": 80
     }
   ]
 }
