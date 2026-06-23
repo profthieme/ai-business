@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-23T09:45:11.809Z",
+  "generatedAt": "2026-06-23T12:35:09.229Z",
   "articles": [
+    {
+      "title": "Three Approaches to Measuring and Managing AI ROI",
+      "source": "MIT Sloan Management Review",
+      "url": "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/",
+      "publishedAt": "2026-06-23T11:00:27.000Z",
+      "summary": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a return — and what kinds of returns — are we getting from all of this AI investment? To many execu…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 116
+    },
     {
       "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
       "source": "Latent Space",
@@ -10,18 +21,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 110
+      "score": 107
     },
     {
-      "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-      "publishedAt": "2026-06-23T08:00:00.000Z",
-      "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—c…",
+      "title": "AI data readiness: The key to scaling impact",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "summary": "As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured data into a governed, reusable foundation.",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 106
+      "sourceCredibility": 9,
+      "score": 105
     },
     {
       "title": "Red-Teaming after Mythos — Zico Kolter &amp; Matt Fredrikson, Gray Swan",
@@ -32,29 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 100
-    },
-    {
-      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-      "publishedAt": "2026-06-22T16:11:21.000Z",
-      "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designe…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 90
-    },
-    {
-      "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "summary": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, adverti…",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 84
+      "score": 98
     },
     {
       "title": "Capturing Central Europe’s AI opportunity",
@@ -65,29 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
-    },
-    {
-      "title": "From anxiety to advantage: A marketing organization that thrives with AI",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 84
-    },
-    {
-      "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 84
+      "score": 81
     },
     {
       "title": "Capturing growth in a fragmented world",
@@ -98,7 +65,29 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 81
+    },
+    {
+      "title": "From anxiety to advantage: A marketing organization that thrives with AI",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 81
+    },
+    {
+      "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 81
     },
     {
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
@@ -109,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 70
+      "score": 67
     }
   ]
 }
