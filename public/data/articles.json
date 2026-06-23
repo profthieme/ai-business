@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-23T00:09:19.102Z",
+  "generatedAt": "2026-06-23T09:45:11.809Z",
   "articles": [
+    {
+      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+      "publishedAt": "2026-06-23T06:19:49.000Z",
+      "summary": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 110
+    },
+    {
+      "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+      "publishedAt": "2026-06-23T08:00:00.000Z",
+      "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—c…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 106
+    },
     {
       "title": "Red-Teaming after Mythos — Zico Kolter &amp; Matt Fredrikson, Gray Swan",
       "source": "Latent Space",
@@ -10,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 110
+      "score": 100
     },
     {
       "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
@@ -21,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 100
+      "score": 90
     },
     {
       "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
@@ -32,7 +54,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 94
+      "score": 84
     },
     {
       "title": "Capturing Central Europe’s AI opportunity",
@@ -43,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 84
     },
     {
       "title": "From anxiety to advantage: A marketing organization that thrives with AI",
@@ -54,7 +76,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 84
     },
     {
       "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
@@ -65,7 +87,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 84
     },
     {
       "title": "Capturing growth in a fragmented world",
@@ -76,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 94
+      "score": 84
     },
     {
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
@@ -87,7 +109,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 80
+      "score": 70
     }
   ]
 }
