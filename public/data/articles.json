@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T07:47:47.015Z",
+  "generatedAt": "2026-06-25T10:44:51.989Z",
   "articles": [
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 107
+      "score": 104
     },
     {
       "title": "The math behind the OpenAI Jalapeño chip",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 106
+      "score": 103
     },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 100
+      "score": 97
     },
     {
       "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
@@ -43,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 88
+      "score": 85
     },
     {
       "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
@@ -54,18 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 86
-    },
-    {
-      "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 86
+      "score": 83
     },
     {
       "title": "AI-powered software development: How technology is rewriting the rules",
@@ -76,7 +65,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 86
+      "score": 83
+    },
+    {
+      "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "summary": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 83
     },
     {
       "title": "How KPN is building an agentic AI engine for customer care",
@@ -87,7 +87,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 86
+      "score": 83
     },
     {
       "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
@@ -98,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 85
+      "score": 82
     },
     {
       "title": "Three Approaches to Measuring and Managing AI ROI",
@@ -109,7 +109,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 73
+      "score": 70
     },
     {
       "title": "Omio scales travel product development using OpenAI models",
@@ -120,18 +120,7 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 69
-    },
-    {
-      "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-      "publishedAt": "2026-06-23T08:00:00.000Z",
-      "summary": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—c…",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 60
+      "score": 66
     }
   ]
 }
