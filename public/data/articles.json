@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-25T10:44:51.989Z",
+  "generatedAt": "2026-06-25T16:27:57.181Z",
   "articles": [
+    {
+      "title": "What matters most to investors in 2026 and what it means for companies",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 102
+    },
+    {
+      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "AI’s next breakthrough may not be a smarter model but a cheaper token.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 102
+    },
     {
       "title": "[AINews] It's Meta-Harness Summer",
       "source": "Latent Space",
@@ -10,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 104
+      "score": 99
     },
     {
       "title": "The math behind the OpenAI Jalapeño chip",
@@ -21,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 103
+      "score": 98
     },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -32,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 97
+      "score": 91
     },
     {
       "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
@@ -43,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 85
+      "score": 80
     },
     {
       "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
@@ -54,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 83
+      "score": 78
     },
     {
       "title": "AI-powered software development: How technology is rewriting the rules",
@@ -65,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 83
+      "score": 78
     },
     {
       "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
@@ -76,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 83
+      "score": 78
     },
     {
       "title": "How KPN is building an agentic AI engine for customer care",
@@ -87,7 +109,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 83
+      "score": 78
     },
     {
       "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
@@ -96,20 +118,9 @@
       "publishedAt": "2026-06-24T09:00:00.000Z",
       "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group t…",
       "category": "Strategy",
-      "isTopStory": true,
+      "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 82
-    },
-    {
-      "title": "Three Approaches to Measuring and Managing AI ROI",
-      "source": "MIT Sloan Management Review",
-      "url": "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/",
-      "publishedAt": "2026-06-23T11:00:27.000Z",
-      "summary": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a return — and what kinds of returns — are we getting from all of this AI investment? To many execu…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 70
+      "score": 77
     },
     {
       "title": "Omio scales travel product development using OpenAI models",
@@ -120,7 +131,7 @@
       "category": "Strategy",
       "isTopStory": false,
       "sourceCredibility": 7,
-      "score": 66
+      "score": 60
     }
   ]
 }
