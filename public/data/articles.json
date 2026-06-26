@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-26T21:20:47.224Z",
+  "generatedAt": "2026-06-26T23:09:10.355Z",
   "articles": [
+    {
+      "title": "SAP aligns commerce data for AI personalisation",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+      "publishedAt": "2026-06-26T12:55:48.000Z",
+      "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touch…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 98
+    },
     {
       "title": "Turning sustainability compliance into a competitive edge",
       "source": "McKinsey Insights",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 97
+      "score": 95
     },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -21,7 +32,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 93
+      "score": 91
     },
     {
       "title": "What matters most to investors in 2026 and what it means for companies",
@@ -32,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 73
+      "score": 71
     },
     {
       "title": "Frontiers of compute: The technologies to reduce AI inference costs",
@@ -43,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 73
+      "score": 71
     },
     {
       "title": "What it takes to become—and remain—an effective CEO",
@@ -54,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 73
+      "score": 71
     },
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -65,7 +76,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 70
+      "score": 68
+    },
+    {
+      "title": "The math behind the OpenAI Jalapeño chip",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "publishedAt": "2026-06-25T06:00:00.000Z",
+      "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a dire…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 67
     }
   ]
 }
