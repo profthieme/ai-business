@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-26T11:11:45.733Z",
+  "generatedAt": "2026-06-26T14:29:31.467Z",
   "articles": [
+    {
+      "title": "SAP aligns commerce data for AI personalisation",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+      "publishedAt": "2026-06-26T12:55:48.000Z",
+      "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touch…",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 106
+    },
     {
       "title": "Turning sustainability compliance into a competitive edge",
       "source": "McKinsey Insights",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 107
+      "score": 104
     },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -21,7 +32,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 103
+      "score": 100
     },
     {
       "title": "What matters most to investors in 2026 and what it means for companies",
@@ -32,18 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 83
-    },
-    {
-      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "AI’s next breakthrough may not be a smarter model but a cheaper token.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 83
+      "score": 80
     },
     {
       "title": "What it takes to become—and remain—an effective CEO",
@@ -54,7 +54,18 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 83
+      "score": 80
+    },
+    {
+      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "AI’s next breakthrough may not be a smarter model but a cheaper token.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 80
     },
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -65,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 80
+      "score": 77
     },
     {
       "title": "The math behind the OpenAI Jalapeño chip",
@@ -76,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 79
+      "score": 76
     },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -87,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 73
+      "score": 69
     }
   ]
 }
