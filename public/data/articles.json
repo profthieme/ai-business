@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-26T07:59:09.495Z",
+  "generatedAt": "2026-06-26T11:11:45.733Z",
   "articles": [
+    {
+      "title": "Turning sustainability compliance into a competitive edge",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "summary": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 9,
+      "score": 107
+    },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
       "source": "Latent Space",
@@ -10,7 +21,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 106
+      "score": 103
     },
     {
       "title": "What matters most to investors in 2026 and what it means for companies",
@@ -21,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 86
+      "score": 83
     },
     {
       "title": "Frontiers of compute: The technologies to reduce AI inference costs",
@@ -32,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 86
+      "score": 83
     },
     {
       "title": "What it takes to become—and remain—an effective CEO",
@@ -43,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 86
+      "score": 83
     },
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -54,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 83
+      "score": 80
     },
     {
       "title": "The math behind the OpenAI Jalapeño chip",
@@ -65,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 82
+      "score": 79
     },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -76,29 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 76
-    },
-    {
-      "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "summary": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device e…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 62
-    },
-    {
-      "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-      "publishedAt": "2026-06-24T09:00:00.000Z",
-      "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group t…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 61
+      "score": 73
     }
   ]
 }
