@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T19:51:44.340Z",
+  "generatedAt": "2026-06-26T21:20:47.224Z",
   "articles": [
     {
       "title": "Turning sustainability compliance into a competitive edge",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 98
+      "score": 97
     },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -21,7 +21,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 94
+      "score": 93
     },
     {
       "title": "What matters most to investors in 2026 and what it means for companies",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 74
+      "score": 73
     },
     {
       "title": "Frontiers of compute: The technologies to reduce AI inference costs",
@@ -43,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 74
+      "score": 73
     },
     {
       "title": "What it takes to become—and remain—an effective CEO",
@@ -54,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 74
+      "score": 73
     },
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -65,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 71
+      "score": 70
     }
   ]
 }
