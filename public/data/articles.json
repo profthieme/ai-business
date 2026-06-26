@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T03:57:11.734Z",
+  "generatedAt": "2026-06-26T07:59:09.495Z",
   "articles": [
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -10,7 +10,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 110
+      "score": 106
     },
     {
       "title": "What matters most to investors in 2026 and what it means for companies",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 90
+      "score": 86
     },
     {
       "title": "Frontiers of compute: The technologies to reduce AI inference costs",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 90
+      "score": 86
     },
     {
       "title": "What it takes to become—and remain—an effective CEO",
@@ -43,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 90
+      "score": 86
     },
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -54,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 87
+      "score": 83
     },
     {
       "title": "The math behind the OpenAI Jalapeño chip",
@@ -65,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 86
+      "score": 82
     },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -76,18 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 80
-    },
-    {
-      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-      "publishedAt": "2026-06-24T07:14:26.000Z",
-      "summary": "Claude finally gets a Slackbot upgrade",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 68
+      "score": 76
     },
     {
       "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
@@ -98,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 66
+      "score": 62
     },
     {
       "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
@@ -109,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 65
+      "score": 61
     }
   ]
 }
