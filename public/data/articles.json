@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-25T23:20:38.844Z",
+  "generatedAt": "2026-06-26T03:57:11.734Z",
   "articles": [
+    {
+      "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+      "publishedAt": "2026-06-26T01:12:30.000Z",
+      "summary": "It's happening.",
+      "category": "Marketing",
+      "isTopStory": true,
+      "sourceCredibility": 8,
+      "score": 110
+    },
     {
       "title": "What matters most to investors in 2026 and what it means for companies",
       "source": "McKinsey Insights",
@@ -10,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 95
+      "score": 90
     },
     {
       "title": "Frontiers of compute: The technologies to reduce AI inference costs",
@@ -21,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 95
+      "score": 90
     },
     {
       "title": "What it takes to become—and remain—an effective CEO",
@@ -32,7 +43,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 95
+      "score": 90
     },
     {
       "title": "[AINews] It's Meta-Harness Summer",
@@ -43,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 92
+      "score": 87
     },
     {
       "title": "The math behind the OpenAI Jalapeño chip",
@@ -54,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 91
+      "score": 86
     },
     {
       "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
@@ -65,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 85
+      "score": 80
     },
     {
       "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
@@ -76,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 73
+      "score": 68
     },
     {
       "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
@@ -87,51 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 71
-    },
-    {
-      "title": "The age of thinking machines: Perspectives on the future of robotics",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-age-of-thinking-machines-perspectives-on-the-future-of-robotics",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "The next frontier of AI is physical. Embodied intelligence, in the form of robots, could change how we live and work by 2040.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "AI-powered software development: How technology is rewriting the rules",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what separates the companies capturing value.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "How KPN is building an agentic AI engine for customer care",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/how-kpn-is-building-an-agentic-ai-engine-for-customer-care",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI capabilities for long-term competitiveness.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
+      "score": 66
     },
     {
       "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
@@ -140,9 +107,9 @@
       "publishedAt": "2026-06-24T09:00:00.000Z",
       "summary": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group t…",
       "category": "Strategy",
-      "isTopStory": false,
+      "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 70
+      "score": 65
     }
   ]
 }
