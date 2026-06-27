@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T15:17:20.146Z",
+  "generatedAt": "2026-06-27T19:23:51.080Z",
   "articles": [
     {
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
@@ -10,18 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 103
-    },
-    {
-      "title": "SAP aligns commerce data for AI personalisation",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-      "publishedAt": "2026-06-26T12:55:48.000Z",
-      "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touch…",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 82
+      "score": 99
     },
     {
       "title": "Turning sustainability compliance into a competitive edge",
@@ -32,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 79
+      "score": 75
     },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -43,7 +32,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 75
+      "score": 71
     }
   ]
 }
