@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T11:36:25.699Z",
+  "generatedAt": "2026-06-27T13:47:30.600Z",
   "articles": [
     {
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 107
+      "score": 105
     },
     {
       "title": "SAP aligns commerce data for AI personalisation",
@@ -21,7 +21,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 85
+      "score": 83
     },
     {
       "title": "Turning sustainability compliance into a competitive edge",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 82
+      "score": 80
     },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -43,7 +43,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 79
+      "score": 76
     }
   ]
 }
