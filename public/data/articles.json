@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-26T23:09:10.355Z",
+  "generatedAt": "2026-06-27T06:54:18.806Z",
   "articles": [
     {
-      "title": "SAP aligns commerce data for AI personalisation",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-      "publishedAt": "2026-06-26T12:55:48.000Z",
-      "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touch…",
-      "category": "Marketing",
+      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+      "source": "Latent Space",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+      "publishedAt": "2026-06-27T05:23:22.000Z",
+      "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
+      "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 98
+      "sourceCredibility": 8,
+      "score": 111
     },
     {
       "title": "Turning sustainability compliance into a competitive edge",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 95
+      "score": 87
     },
     {
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
@@ -32,62 +32,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 91
-    },
-    {
-      "title": "What matters most to investors in 2026 and what it means for companies",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "AI’s next breakthrough may not be a smarter model but a cheaper token.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "What it takes to become—and remain—an effective CEO",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "Between the first 90 days and the last, here’s how leaders can successfully manage people, products, processes, and themselves.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "[AINews] It's Meta-Harness Summer",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
-      "publishedAt": "2026-06-25T02:14:08.000Z",
-      "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 68
-    },
-    {
-      "title": "The math behind the OpenAI Jalapeño chip",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-      "publishedAt": "2026-06-25T06:00:00.000Z",
-      "summary": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a dire…",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 67
+      "score": 83
     }
   ]
 }
