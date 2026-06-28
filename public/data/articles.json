@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T19:23:51.080Z",
+  "generatedAt": "2026-06-28T08:22:44.807Z",
   "articles": [
     {
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
@@ -10,29 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 99
-    },
-    {
-      "title": "Turning sustainability compliance into a competitive edge",
-      "source": "McKinsey Insights",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge",
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "summary": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
-      "category": "Strategy",
-      "isTopStory": true,
-      "sourceCredibility": 9,
-      "score": 75
-    },
-    {
-      "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
-      "publishedAt": "2026-06-26T01:12:30.000Z",
-      "summary": "It's happening.",
-      "category": "Marketing",
-      "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 71
+      "score": 86
     }
   ]
 }
