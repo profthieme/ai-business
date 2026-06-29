@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-06-28T21:04:38.685Z",
+  "generatedAt": "2026-06-29T09:28:01.266Z",
   "articles": [
     {
-      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-      "source": "Latent Space",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "publishedAt": "2026-06-27T05:23:22.000Z",
-      "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
+      "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+      "publishedAt": "2026-06-29T08:59:46.000Z",
+      "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances …",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 8,
-      "score": 73
+      "sourceCredibility": 7,
+      "score": 108
+    },
+    {
+      "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+      "publishedAt": "2026-06-29T08:05:32.000Z",
+      "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection process…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 107
+    },
+    {
+      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+      "source": "Artificial Intelligence News",
+      "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+      "publishedAt": "2026-06-29T07:57:38.000Z",
+      "summary": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announc…",
+      "category": "Strategy",
+      "isTopStory": true,
+      "sourceCredibility": 7,
+      "score": 106
     }
   ]
 }
