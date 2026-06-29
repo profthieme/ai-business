@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:01:14.129Z",
+  "generatedAt": "2026-06-29T22:09:25.825Z",
   "articles": [
     {
       "title": "Transforming Investing With AI at Franklin Templeton",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 109
+      "score": 107
     },
     {
       "title": "HP accelerates enterprise workflows with OpenAI Frontier",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 100
+      "score": 98
     },
     {
       "title": "Wimbledon adds IBM AI tools for live match coverage",
@@ -32,7 +32,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 98
+      "score": 96
     },
     {
       "title": "Global Economics Intelligence executive summary, May 2026",
@@ -43,7 +43,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 98
+      "score": 96
     },
     {
       "title": "African bedrock: How the continent’s minerals can help power the world",
@@ -54,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 98
+      "score": 96
     },
     {
       "title": "Advances in Natural Language Processing Are Changing Professional Networking",
@@ -65,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 97
+      "score": 95
     },
     {
       "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
@@ -76,7 +76,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 96
+      "score": 94
     },
     {
       "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
@@ -87,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 7,
-      "score": 96
+      "score": 94
     }
   ]
 }
