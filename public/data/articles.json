@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-06-29T09:28:01.266Z",
+  "generatedAt": "2026-06-29T17:39:44.628Z",
   "articles": [
     {
-      "title": "Advances in Natural Language Processing Are Changing Professional Networking",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
-      "publishedAt": "2026-06-29T08:59:46.000Z",
-      "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances …",
+      "title": "Transforming Investing With AI at Franklin Templeton",
+      "source": "MIT Sloan Management Review",
+      "url": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
+      "publishedAt": "2026-06-29T11:00:37.000Z",
+      "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be a…",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 108
+      "sourceCredibility": 9,
+      "score": 111
     },
     {
-      "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-      "publishedAt": "2026-06-29T08:05:32.000Z",
-      "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection process…",
-      "category": "Strategy",
+      "title": "Global Economics Intelligence executive summary, May 2026",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "summary": "As energy prices trend higher and drive inflation, consumer confidence is ebbing—and central banks have a dilemma: whether to tackle inflation by raising policy rates or ease them to provide a stimulus.",
+      "category": "AI Policy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 107
+      "sourceCredibility": 9,
+      "score": 100
     },
     {
-      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
-      "publishedAt": "2026-06-29T07:57:38.000Z",
-      "summary": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announc…",
+      "title": "African bedrock: How the continent’s minerals can help power the world",
+      "source": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "summary": "Critical minerals underpin everything from AI to low-carbon energy, and African mining sits at the epicenter. Three key moves can help unlock the continent’s natural minerals advantage.",
       "category": "Strategy",
       "isTopStory": true,
-      "sourceCredibility": 7,
-      "score": 106
+      "sourceCredibility": 9,
+      "score": 100
     }
   ]
 }
