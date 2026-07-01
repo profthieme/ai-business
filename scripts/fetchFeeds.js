@@ -282,7 +282,11 @@ async function main() {
   console.log(`Wrote ${articles.length} articles to ${OUT}`);
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
