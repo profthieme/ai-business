@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:52:28.540Z",
+  "generatedAt": "2026-07-01T12:35:35.783Z",
   "articles": [
     {
       "title": "AIEWF Daily Dispatch: Loops, Software Factories &amp; Forward Deployed Engineers",
@@ -10,7 +10,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 108
+      "score": 105
     },
     {
       "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
@@ -21,7 +21,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 106
+      "score": 103
     },
     {
       "title": "Ahmad Osman on why local AI is catching up",
@@ -32,7 +32,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 103
+      "score": 100
     },
     {
       "title": "The Real Question to Ask About AI Governance",
@@ -43,7 +43,7 @@
       "category": "AI Policy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 95
+      "score": 92
     },
     {
       "title": "[AINews] not much happened today",
@@ -54,7 +54,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 8,
-      "score": 86
+      "score": 83
     },
     {
       "title": "Colocation data centers: The infrastructure race behind AI",
@@ -65,7 +65,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 81
     },
     {
       "title": "Talking with Daniel Marovitz, SVP of Fintech at Booking.com",
@@ -76,7 +76,7 @@
       "category": "Marketing",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 81
     },
     {
       "title": "Solar power: From intermittent sunshine to reliable power",
@@ -87,7 +87,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 81
     },
     {
       "title": "EAF steel: Beyond the blast furnace",
@@ -98,7 +98,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 81
     },
     {
       "title": "Author Talks: Why we need a ‘ritual renaissance’",
@@ -109,7 +109,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
+      "score": 81
     },
     {
       "title": "Nuclear power: A renaissance in the making",
@@ -120,40 +120,7 @@
       "category": "Strategy",
       "isTopStory": true,
       "sourceCredibility": 9,
-      "score": 84
-    },
-    {
-      "title": "Transforming Investing With AI at Franklin Templeton",
-      "source": "MIT Sloan Management Review",
-      "url": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
-      "publishedAt": "2026-06-29T11:00:37.000Z",
-      "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be a…",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 9,
-      "score": 71
-    },
-    {
-      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
-      "publishedAt": "2026-06-29T12:22:45.000Z",
-      "summary": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational ga…",
-      "category": "Strategy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 63
-    },
-    {
-      "title": "Wimbledon adds IBM AI tools for live match coverage",
-      "source": "Artificial Intelligence News",
-      "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
-      "publishedAt": "2026-06-29T10:00:00.000Z",
-      "summary": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They inc…",
-      "category": "AI Policy",
-      "isTopStory": false,
-      "sourceCredibility": 7,
-      "score": 60
+      "score": 81
     }
   ]
 }
